@@ -1,2 +1,2 @@
 # Catch the Yellow Ball
-[Ball-Game](https://yigityaldiz.itch.io/catch-the-yellow-ball)
+[Ball-Game Link](https://yigityaldiz.itch.io/catch-the-yellow-ball)
